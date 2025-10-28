@@ -8,8 +8,7 @@ Este é um projeto que consiste em uma Pokédex digital, permitindo aos usuário
 * **Listagem de Pokémon:** Exibe uma lista ou grid com os Pokémon (ex: os 151 originais).
 * **Busca:** Permite buscar um Pokémon específico pelo nome ou número.
 * **Detalhes:** Ao clicar em um Pokémon, exibe seus status, tipo(s), habilidades, etc.
-* **[Outra funcionalidade?]** (Ex: Filtro por tipo, Paginação, Scroll Infinito?)
-* **[Outra funcionalidade?]** (Ex: Design responsivo para celular?)
+
 
 ## 💻 Tecnologias Utilizadas
 
